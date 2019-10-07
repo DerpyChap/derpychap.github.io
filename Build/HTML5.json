@@ -1,0 +1,16 @@
+{
+"companyName": "Untitled Square Game",
+"productName": "untitled-square-game",
+"productVersion": "LDJam",
+"dataUrl": "HTML5.data.unityweb",
+"wasmCodeUrl": "HTML5.wasm.code.unityweb",
+"wasmFrameworkUrl": "HTML5.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#050505",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.8f1"
+}
